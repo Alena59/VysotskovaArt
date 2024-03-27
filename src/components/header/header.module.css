@@ -1,0 +1,9 @@
+.header {
+  display: block;
+  margin-bottom: 22px;
+  padding-left: 2px;
+  font-size: 44px;
+  line-height: 1.167;
+  font-weight: 700;
+  font-style: oblique;
+}
